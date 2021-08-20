@@ -1,0 +1,6 @@
+sudo nano /etc/prometheus/bucket.yml
+type: AZURE
+config:
+  storage_account: "marveles46"
+  storage_account_key: "cDIdpS6+QLSptS5xTjDx519ip0300mtqu23Cw0UbOL9cUKl8+73lCICUgXVAgWfsnL87ovFTdnKUfOWvcWRGoA=="
+  container: "suse-obj-store"
